@@ -11,6 +11,6 @@ token-bucket
 
 令牌桶算法示意图
 
-
+![avatar](https://github.com/diubrother/ratelimiter/blob/master/token-bucket.jpg)
 
 令牌桶算法通过发放令牌，根据令牌的rate频率做请求频率限制，容量限制等。
